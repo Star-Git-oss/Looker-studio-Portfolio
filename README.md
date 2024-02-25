@@ -46,4 +46,4 @@ Data Dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_tr
 
 
 ## Contact
-Manyu Zhang (zhangmanyuzmy@gmail.com)
+Bright Star (brightstar09031222@gmail.com)
