@@ -42,9 +42,6 @@ Data Dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_tr
 
 
 
-## Looker Dashboard
-https://github.com/manyuzhang1996/NYC-Uber-Data-Engineering-Project-with-Google-Cloud-Platform/assets/111943220/4c7ad7b2-15b6-4a0c-aba8-8754cfef91d5
-
 
 
 
